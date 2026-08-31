@@ -1,0 +1,7 @@
+Wiring diagram
+
+GND-----GND(on-arduino)
++5v-----5v(on-arduino)
+VRx-----A0
+VRy-----A1
+SW------D2
