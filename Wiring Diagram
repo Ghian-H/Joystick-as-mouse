@@ -1,7 +1,13 @@
-Wiring diagram
+ Hardware Setup
 
-GND-----GND(on-arduino)
-+5v-----5v(on-arduino)
-VRx-----A0
-VRy-----A1
-SW------D2
+Wire the HW-504 joystick module to your Arduino Uno as shown below:
+
+| HW-504 Pin | Arduino Pin | Description |
+| :--- | :--- | :--- |
+| GND | GND | Ground |
+| +5V | 5V | 5V Power |
+| VRx | A0 | X-Axis Input |
+| VRy | A1 | Y-Axis Input |
+| SW | D2 | Push Button |
+
+![Wiring Diagram](wiring_diagram.png)
